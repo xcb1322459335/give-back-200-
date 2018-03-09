@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://ns868.com/APP/yzzc/ios/yzzc1.ipa</string>
+     <string>https://ns868.com/APP/yzzc/ios/yzzc.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
